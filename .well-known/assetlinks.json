@@ -1,5 +1,6 @@
+
 [{
-	  "relation": ["delegate_permission/common.handle_all_urls"],
-	    "target" : { "namespace": "android_app", "package_name": "art.smm.app",
-		                   "sha256_cert_fingerprints": ["61:C9:AB:74:80:4D:29:88:8E:EB:E0:30:46:50:DE:56:AE:10:47:61:36:2F:41:9E:DC:1A:61:3B:85:E6:C8:77"] }
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "art.smm.app",
+               "sha256_cert_fingerprints": ["61:C9:AB:74:80:4D:29:88:8E:EB:E0:30:46:50:DE:56:AE:10:47:61:36:2F:41:9E:DC:1A:61:3B:85:E6:C8:77"] }
 }]
